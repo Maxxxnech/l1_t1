@@ -1,0 +1,11 @@
+{
+  "name": "l1_t1",
+  "version": "1.0.0",
+  "description": "my first lesson",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Me",
+  "license": "ISC"
+}
