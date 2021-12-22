@@ -1,6 +1,6 @@
 {
   "name": "l1_t1",
-  "version": "4.2.99",
+  "version": "4.2.9999",
   "description": "my first lesson",
   "main": "index.js",
   "scripts": {
